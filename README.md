@@ -7,7 +7,7 @@ Welcome to my project portfolio.
 
 | Project Link | Project Description |
 |---|---|
-| <a href='https://github.com/JonYarber/music_modeling'>Creating Music Models</a> | Utilizing audio analysis data to create 3D and predictive models |
+| [Creating Music Models](https://github.com/JonYarber/music_modeling) | Utilizing audio analysis data to create 3D and predictive models |
 | Spaceship Titanic | Building a predictive model of Kaggle's Spaceship Titanic |
 | Titanic | My attempt at the famous <i>Titanic</i> datase |
 
