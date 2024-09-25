@@ -15,6 +15,6 @@ Welcome to my project portfolio.
 
 | Project Link | Language | Primary Tool | Project Description |
 |---|---|---|---|
-| [Zip Geocoding & Radius Calculation](https://github.com/JonYarber/zip_code_mapping) | R | tidygeodor |Creating a comprehensive list of U.S. zip codes, their centroid coordinates, and finding all zip codes within a radius of a given address. |
+| [ZIP Code Geocoding & Utilization](https://github.com/JonYarber/zip_code_mapping) | R | tidygeoder |Creating a comprehensive list of U.S. zip codes, their centroid coordinates, and finding all zip codes within a radius of a given address. |
 
 
