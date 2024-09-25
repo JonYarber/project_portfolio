@@ -5,16 +5,16 @@ Welcome to my project portfolio.
 
 ## Personal Projects
 
-| Project Link | Project Description |
-|---|---|
-| [Creating Music Models](https://github.com/JonYarber/music_modeling) | Utilizing audio analysis data to create 3D and predictive models |
-| [Spaceship Titanic](https://github.com/JonYarber/spaceship_titanic) | Building a predictive model of Kaggle's Spaceship Titanic |
-| Titanic | My attempt at the famous <i>Titanic</i> datase |
+| Project Link | Language | Primary Tool | Project Description |
+|---|---|---|---|
+| [Creating Music Models](https://github.com/JonYarber/music_modeling) | Python | spotipy | Utilizing audio analysis data to create 3D and predictive models |
+| [Spaceship Titanic](https://github.com/JonYarber/spaceship_titanic) | Python | scikitlearn | Building a predictive model of Kaggle's Spaceship Titanic |
+| Titanic | Python | scikitlearn | My attempt at the famous <i>Titanic</i> datase |
 
 ## Work Projects
 
-| Project Link | Project Description |
-|---|---|
-| Zip Geocoding & Radius Calculation | Creating a comprehensive list of U.S. zip codes, their centroid coordinates, and finding all zip codes within a radius of a given address |
+| Project Link | Language | Primary Tool | Project Description |
+|---|---|---|---|
+| [Zip Geocoding & Radius Calculation](https://github.com/JonYarber/zip_code_mapping) | R | tidygeodor |Creating a comprehensive list of U.S. zip codes, their centroid coordinates, and finding all zip codes within a radius of a given address. |
 
 
